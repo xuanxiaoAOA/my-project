@@ -1,12 +1,12 @@
 react.js使用demo
-##启动说明
+## 启动说明
 项目使用Create React App脚手架(https://github.com/facebookincubator/create-react-app)
 yarn start
-##demo1 高阶组件
+## demo1 高阶组件
 原文地址：https://github.com/brickspert/blog/issues/2388 
 ##demo2 继承自定义组件 
 还不清楚是否建议使用
-##demo3 PureComponent+immutable
+## demo3 PureComponent+immutable
 PureComponent用法与载shouldComponentUpdate做判断相同，比对的是引用地址（内存地址）
 var a=1;
 var b=a
